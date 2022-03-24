@@ -1,6 +1,6 @@
-package com.spring.Codeblog.service;
+package com.spring.codeblog.service;
 
-import com.spring.Codeblog.model.Post;
+import com.spring.codeblog.model.Post;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.spring.Codeblog.controller;
+package com.spring.codeblog.controller;
 
-import com.spring.Codeblog.model.Post;
-import com.spring.Codeblog.service.CodeblogService;
+import com.spring.codeblog.model.Post;
+import com.spring.codeblog.service.CodeblogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;

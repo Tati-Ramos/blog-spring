@@ -1,8 +1,8 @@
-package com.spring.Codeblog.service.serviceImpl;
+package com.spring.codeblog.service.serviceImpl;
 
-import com.spring.Codeblog.model.Post;
-import com.spring.Codeblog.repository.CodeblogRepository;
-import com.spring.Codeblog.service.CodeblogService;
+import com.spring.codeblog.model.Post;
+import com.spring.codeblog.repository.CodeblogRepository;
+import com.spring.codeblog.service.CodeblogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

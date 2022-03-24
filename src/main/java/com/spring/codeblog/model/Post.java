@@ -1,4 +1,4 @@
-package com.spring.Codeblog.model;
+package com.spring.codeblog.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
